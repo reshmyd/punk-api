@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/punk-api/static/css/main.932c988f.chunk.css",
+    "main.js": "/punk-api/static/js/main.8bc235c8.chunk.js",
+    "main.js.map": "/punk-api/static/js/main.8bc235c8.chunk.js.map",
+    "runtime-main.js": "/punk-api/static/js/runtime-main.dbf2247b.js",
+    "runtime-main.js.map": "/punk-api/static/js/runtime-main.dbf2247b.js.map",
+    "static/js/2.2990bb1e.chunk.js": "/punk-api/static/js/2.2990bb1e.chunk.js",
+    "static/js/2.2990bb1e.chunk.js.map": "/punk-api/static/js/2.2990bb1e.chunk.js.map",
+    "static/js/3.d0252371.chunk.js": "/punk-api/static/js/3.d0252371.chunk.js",
+    "static/js/3.d0252371.chunk.js.map": "/punk-api/static/js/3.d0252371.chunk.js.map",
+    "index.html": "/punk-api/index.html",
+    "static/css/main.932c988f.chunk.css.map": "/punk-api/static/css/main.932c988f.chunk.css.map",
+    "static/js/2.2990bb1e.chunk.js.LICENSE.txt": "/punk-api/static/js/2.2990bb1e.chunk.js.LICENSE.txt",
+    "static/media/brewdog_white.2f55cad6.png": "/punk-api/static/media/brewdog_white.2f55cad6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbf2247b.js",
+    "static/js/2.2990bb1e.chunk.js",
+    "static/css/main.932c988f.chunk.css",
+    "static/js/main.8bc235c8.chunk.js"
+  ]
+}
