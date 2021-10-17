@@ -1,0 +1,13 @@
+.filter-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px;
+  label {
+  margin-left: 0;
+  margin-bottom: 10px;
+  }
+  input {
+  margin-right: 0;
+  margin-bottom: 10px;
+  }
+}
